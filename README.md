@@ -21,8 +21,8 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/database/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/database/oracle.svg" alt="Oracle" width="40" height="40"/>
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mongodb.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/oracle.svg" alt="Oracle" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg" alt="MongoDB" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
