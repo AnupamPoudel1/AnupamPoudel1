@@ -17,6 +17,7 @@
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" alt="NodeJs" width="40" height="40"/>
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" alt="ReactJs" width="40" height="40"/>
 <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/redux.svg" alt="Redux" width="40" height="40"/>
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/typescript.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
