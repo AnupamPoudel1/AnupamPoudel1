@@ -1,11 +1,7 @@
 
 
 ### Introduction  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
   
-
 ### <div align="center">I'm Anupam Poudel, a Full-Stack Developer 👨‍💻 with a year of experience 🚀</div>  
   
 
